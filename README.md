@@ -1,1 +1,3 @@
 README
+
+npm run start
