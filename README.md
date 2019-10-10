@@ -6,8 +6,22 @@ Simple SPA using Riot JS v.4 and Webpack
 * npm install
 * npm run start
 
-### 1) Once runing, please register new user, then you can do: create task, update and delete task
-### 2) Create task
-### 3) Delete task
-### 4) Retrieve message
-### 5) Logout
+#### 1) Once runing, please register new user
+![GitHub Logo](/public/assets/ivosights-register-new-user.png)
+
+#### 2) Login
+![GitHub Logo](/public/assets/ivosights-login.png)
+
+### 3) Then you can do: create, update and delete task
+![GitHub Logo](/public/assets/ivosights-datatable.png)
+
+#### 4) Create task (and update)
+![GitHub Logo](/public/assets/ivosights-update.png)
+
+#### 5) Delete task
+![GitHub Logo](/public/assets/ivosights-delete.png)
+
+#### 6) Retrieve message
+![GitHub Logo](/public/assets/ivosights-sukses-message.png)
+
+#### 7) Logout
